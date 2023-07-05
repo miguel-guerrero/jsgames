@@ -1,0 +1,8 @@
+
+#gameCanvas {
+  border: 1px solid black;
+}
+
+#imgBall {
+  display: none;
+}
