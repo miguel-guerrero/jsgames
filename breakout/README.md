@@ -5,14 +5,16 @@ using a `canvas` element.
 
 ## Quick Start
 
-For local testing run:
+For quick local testing and playing you can run:
 
     $ ./serve.sh
 
-Will create a simple python web server to provide access to `index.html` to a web browser
+This will create a simple python web server to provide access to `index.html` to a web browser
 
-Open the following path:
+On the same machine, open the following path on a web browser:
 
     http://localhost:8000
 
-To play!
+Enjoy!
+
+![screenshot](breakout.png)
